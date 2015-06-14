@@ -1,0 +1,4 @@
+Installation 
+	clone it !!
+	and then create symlink 
+	ln -s ~/dotfiles/vimrc ~/.vimrc
